@@ -43,7 +43,7 @@ To run the script, follow these steps:
 
 3. Run the Python script:
     ```bash
-    python3 employee_earnings_calculator.py
+    python3 app.py
     ```
 
 4. The program will prompt you to enter the **year**, **month**, and **day**. After inputting the values, the script will calculate the earnings for that specific day.
