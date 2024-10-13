@@ -33,7 +33,7 @@ To run the script, follow these steps:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/employee-earnings-calculator.git
+    git clone https://github.com/Qoslaye/employee-earnings-calculator.git
     ```
 
 2. Navigate to the project directory:
